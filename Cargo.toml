@@ -1,0 +1,6 @@
+[package]
+name = "rusty_bus"
+version = "0.1.0"
+authors = ["jladd"]
+
+[dependencies]
