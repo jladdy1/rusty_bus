@@ -1,7 +1,7 @@
 extern crate rusty_bus;
 
-use rusty_bus::data_structures::linked_list;
+use rusty_bus::data_structures::stack;
 
 fn main() {
-    println!("{}", linked_list::hello());
+  
 }
